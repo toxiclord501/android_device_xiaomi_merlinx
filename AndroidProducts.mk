@@ -15,9 +15,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-   $(LOCAL_DIR)/lighthouse_merlinx.mk
+   $(LOCAL_DIR)/arrow_merlinx.mk
 
 COMMON_LUNCH_CHOICES := \
-    lighthouse_merlinx-user \
-    lighthouse_merlinx-userdebug \
-    lighthouse_merlinx-eng
+    arrow_merlinx-user \
+    arrow_merlinx-userdebug \
+    arrow_merlinx-eng
