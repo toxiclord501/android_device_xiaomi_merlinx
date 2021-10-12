@@ -41,6 +41,10 @@ PRODUCT_DEVICE := merlinx
 PRODUCT_NAME := aosp_merlinx
 PRODUCT_BRAND := Redmi
 PRODUCT_MANUFACTURER := Xiaomi
+PRIVATE_BUILD_DESC="redfin-user 12 SPB5.210812.002 7671067 release-keys"
+
+# Build Fingerprint
+BUILD_FINGERPRINT := "google/redfin/redfin:12/SPB5.210812.002/7671067:user/release-keys"
 
 PRODUCT_GMS_CLIENTID_BASE := android-xiaomi
 TARGET_VENDOR := xiaomi
