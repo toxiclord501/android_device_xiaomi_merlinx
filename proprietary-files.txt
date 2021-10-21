@@ -137,6 +137,7 @@ vendor/lib64/vendor.mediatek.hardware.camera.isphal@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.lomoeffect@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.postproc@1.0.so
 vendor/lib64/vendor.mediatek.hardware.camera.security@1.0.so
+vendor/lib64/vendor.mediatek.hardware.camera.bgservice@1.0.so
 
 # Camera-arcsoft
 vendor/lib64/libarcsoft_beautyshot.so
